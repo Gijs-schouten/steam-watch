@@ -1,8 +1,8 @@
 # Steam market price watcher
 
-Current usage limited
-CDK deploy locally to specified AWS account
-Price taken every morning at 9 and logged in CloudWatch
+- Current usage limited.
+- CDK deploy locally to specified AWS account
+- Price taken every morning at 9 and logged in CloudWatch
 
 ## Useful commands
 
