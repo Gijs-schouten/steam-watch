@@ -1,8 +1,8 @@
-# Welcome to your CDK TypeScript project
+# Steam market price watcher
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Current usage limited
+CDK deploy locally to specified AWS account
+Price taken every morning at 9 and logged in CloudWatch
 
 ## Useful commands
 
